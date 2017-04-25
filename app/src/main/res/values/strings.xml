@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DynamicAddView</string>
+    <string name="left">Left</string>
+    <string name="center">Center</string>
+    <string name="right">Right</string>
+    <string name="create">CREATE</string>
+    <string name="clear">CLEAR</string>
+</resources>
